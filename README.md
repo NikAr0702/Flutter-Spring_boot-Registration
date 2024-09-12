@@ -43,8 +43,3 @@ http://localhost:8080/login
 http://localhost:8080/register
 
 
-
-`Demo`
-
-![flutter+strapi (Copy)](https://user-images.githubusercontent.com/16520789/95990710-7ac40400-0e49-11eb-976d-094490b57202.png)
-
